@@ -1,0 +1,23 @@
+.notFoundContainer {
+  text-align: center;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.notFoundTitle {
+  font-size: 160px;
+  color: #e74c3c;
+  margin: 0;
+}
+
+.notFoundText {
+  font-size: 24px;
+  color: #333;
+  margin: 20px 0;
+}
